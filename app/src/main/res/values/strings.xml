@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Acquaintance</string>
+    <string name="nic">Reds</string>
+    <string name="residence">Earth</string>
+    <string name="myNameIs">My name is</string>
+    <string name="iLiveOn">I live on</string>
+    <string name="interestings">Interestings in</string>
+    <string name="friends">I have lots of friends. The best are:</string>
+    <string name="search">Search</string>
+    <string name="menu">Menu</string>
+    <string name="settings">Settings</string>
+</resources>
